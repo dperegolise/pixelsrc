@@ -19,3 +19,6 @@ python/tests/__pycache__/
 .beads/
 # Track metadata.json for Dolt server config (clone and go)
 !.beads/metadata.json
+
+# mdbook build output
+book/_build/
